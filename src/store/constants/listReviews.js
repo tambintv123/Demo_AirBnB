@@ -1,0 +1,3 @@
+export const LIST_REVIEWS = {
+  LIST_REVIEWS: "LIST_REVIEWS",
+};

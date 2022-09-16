@@ -1,0 +1,3 @@
+export const BOOKING_ROOM = {
+  BOOKING_ROOM: "BOOKING_ROOM",
+};

@@ -1,0 +1,15 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+.slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 75vh;
+}

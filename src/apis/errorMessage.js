@@ -1,0 +1,7 @@
+const ErrorMessAPI = {
+
+}
+
+export {
+    ErrorMessAPI
+}

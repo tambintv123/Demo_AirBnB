@@ -1,0 +1,3 @@
+export const DETAIL_TICKET = {
+  DETAIL_TICKET: "DETAIL_TICKET",
+};
